@@ -67,7 +67,7 @@ public class AdminController {
 			return "main/login";
 		}*/
 		//³É¹¦µÇÂ½
-		return "redirect:../cost/list.do";
+		return "redirect:../cost/list.wwww";
 	}
 	
 }
