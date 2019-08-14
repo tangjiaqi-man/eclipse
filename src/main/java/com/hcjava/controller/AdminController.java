@@ -70,7 +70,7 @@ public class AdminController {
 			return "main/login";
 		}*/
 		//³É¹¦µÇÂ½
-		return "redirect:../cost/list.4444";
+		return "redirect:../cost/list.555555";
 	}
 	
 }
