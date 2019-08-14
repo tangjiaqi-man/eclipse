@@ -46,8 +46,7 @@ public class AdminController {
 	@RequestMapping("/checkLogin.do")
 	
 	public String checkLogin(String name,String password,ModelMap model,HttpSession session) {
-		System.out.println(name);
-		System.out.println(session);
+		
 		//测试Spring系统异常捕获
 		//String a=null;
 		//a.charAt(0);
